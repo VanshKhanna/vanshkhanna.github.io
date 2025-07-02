@@ -5,6 +5,8 @@ url: "https://vanshkhanna.github.io"   # full URL to the site
 baseurl: ""                                 # keep empty for username.github.io root
 remote_theme: "jekyll/minima@1e8a445"
 
+# Disable RSS feed
+rss: false
 
 author:
   name: "**vansh**"
