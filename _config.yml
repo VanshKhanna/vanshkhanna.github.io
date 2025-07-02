@@ -1,18 +1,17 @@
 # _config.yml ─ minimal Jekyll setup for GitHub Pages
-title: "**knn_vnsh blog**"
-description: "notes/learnings/observations/scratchpad"
+title: "vansh's blog"
+description: "saas/books/notes"
 url: "https://vanshkhanna.github.io"   # full URL to the site
 baseurl: ""                                 # keep empty for username.github.io root
-theme: minima                               # GitHub-supported default theme
+remote_theme: "jekyll/minima@1e8a445"
+
 
 author:
   name: "**vansh**"
-  email: "**~~**"
 
 # Enable the only plugins GitHub Pages builds for you
 plugins:
-  - jekyll-feed      # automatic RSS
-  - jekyll-seo-tag   # better SEO / social cards
+  - jekyll-remote-theme
 
 # Optional niceties
 markdown: kramdown
