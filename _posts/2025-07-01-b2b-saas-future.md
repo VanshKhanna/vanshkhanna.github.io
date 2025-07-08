@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Disrupting the Arena (B2B Saas)"
-date: 2025-07-01
+title: "Disrupting the Arena (b2b saas)"
+date: 2025-07-08
 categories: [software]
-author: "Vansh"
+author: "vansh"
 ---
 
 > the more things change, the more they stay the same - Jon Bon Jovi 
