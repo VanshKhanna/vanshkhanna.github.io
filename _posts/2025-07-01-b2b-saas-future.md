@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Disrupting the Arena (b2b saas)"
-date: 2025-07-08
+date: 2025-07-01
 categories: [software]
 author: "vansh"
 ---
