@@ -12,3 +12,11 @@ menu:
     - name: Blog
       url: /post/
       weight: 2
+    - name: Categories
+      url: /categories/
+      weight: 3
+
+params:
+  author: "Vansh Khanna"
+  description: "Notes on Engineering and Everything Else"
+  footer: "&copy; Vansh Khanna 2025 -- {Year} | [GitHub](https://github.com/vanshkhanna) | [Twitter](https://twitter.com/knn_vnsh)"
