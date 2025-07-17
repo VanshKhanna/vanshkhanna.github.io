@@ -1,0 +1,8 @@
+baseURL   = "https://vanshkhanna.github.io/"
+languageCode = "en-us"
+title     = "KNN_VNSH TECH NOTES"
+paginate  = 10
+theme     = "hugo-xmin"
+
+[permalinks]
+  posts = "/:year/:month/:title/"
