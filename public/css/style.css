@@ -7,10 +7,7 @@ body {
 
 /* header and footer areas */
 .menu { padding: 0; }
-.menu li { 
-  display: inline-block; 
-  margin: 0 50px !important;
-}
+.menu li { display: inline-block; }
 .article-meta, .menu a {
   text-decoration: none;
   background: #eee;
