@@ -21,6 +21,7 @@ I am vansh. I like niche books and generic comedy movies. This techincal blog/pe
 
 As of 2025, my blog is still sparse, but I like to keep a list of pending posts here for accountability:
 - ~AI Safety is Not Above Your Paygrade~
+- UX/Inuition/LLM/Co-Star(?)
 - LLM/Memory/Evals
 - Review of Steve Martin's 'Born Standing Up'
 
