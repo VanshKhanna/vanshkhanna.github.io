@@ -6,8 +6,15 @@
     <description>Recent content in Home on vansh&#39;s blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chat as Primary Interface; And Why It&#39;s Not Enough</title>
+      <link>http://localhost:1313/post/2025-07-21-ai-ux/</link>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2025-07-21-ai-ux/</guid>
+      <description>&lt;h3 id=&#34;millennials-and-the-magic-wand&#34;&gt;Millennials and the Magic Wand&lt;/h3&gt;&#xA;&lt;p&gt;Sam Altman - the YC guy? Before there was OpenAI, there was Loopt; before there were LLMs, there was ML; and before there was chat, there was the &lt;code&gt;magic wand&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;p&gt;2010s were a vibe, money was free and the jeans were skinny. The magic wand in a way accurately captured the mood of the decade. You&amp;rsquo;d digitize a niche, sprinkle a Bayes classifier, slap the wand label and raise a million dollar seed in the name of ML. Quick and lazy, and it worked until it didn&amp;rsquo;t.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Safety: Why your AI should have a Girlfriend</title>
       <link>http://localhost:1313/post/2025-07-08-ai-safety/</link>
